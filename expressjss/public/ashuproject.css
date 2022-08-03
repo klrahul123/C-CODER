@@ -1,0 +1,174 @@
+.aaa{
+   
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    border-bottom: 0.00001px gray solid;
+    border-top: 0.00001px gray solid;
+}
+.ccc{
+    position: relative;
+    top: 50px;
+    left: 320px;
+    height: 200px;
+    width: 600px;
+   
+    
+}
+h2{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    font-family: 'Noto Sans', sans-serif;
+   
+
+}
+.kalua{
+    margin-left: 70px;
+    width: 330px;
+    border: 1px solid blueviolet;
+    border-radius: 2px;
+}
+
+.ankit{
+    border-radius: 2px;
+    width: 80px;
+    border: 1px solid blueviolet;
+    margin-left: 3px;
+}
+    
+.qqq{
+    position: relative;
+    top: 50px;
+    
+    height: 180px;
+}
+.eee{
+    position: relative;
+
+    left: 120px;
+    border: 1px black solid;
+    height: 180px;
+    width: 280px;
+    background-image: url("food.jpg");
+    background-size: cover;
+    display: inline-block;
+    border-radius: 3px;
+}
+.fff{
+    position: relative;
+    display: inline-block;
+    left: 220px;
+    border: 1px black solid;
+    height: 180px;
+    width: 280px;
+    border-radius: 3px;
+    background-image: url("london.jpg");
+    background-size: cover;
+}
+.ddd{
+    position: relative;
+    display: inline-block;
+    left: 320px;
+    border: 1px black solid;
+    height: 180px;
+    width: 280px;
+    border-radius: 3px;
+    background-image: url("travel.jpg");
+    background-size: cover;
+}
+
+.pan{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+body{
+    background-color: silver;
+    background-attachment: fixed;
+}
+.fa-search{
+    background-color:white;
+    color: blueviolet;
+    border: 0.2 solid blueviolet;
+    border-radius: 2px;
+}
+.iii{
+    width: 200px;
+    text-align: center;
+    margin-left: 5px;
+    color: black;
+}
+p{
+    text-align: center;
+    margin-top: 135px;
+    color: red;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.iiie{
+    width: 280px;
+    color: white;
+    text-align: center;
+    background-color: blueviolet;
+}
+.zzz{
+    position: relative;
+    border: 0.2px white solid;
+    top: 200px;
+    height: 100px;
+    background-color: black;
+}
+.w{
+        font-family: 'Noto Sans', sans-serif;
+        margin-left: 20px;
+        margin-top: 7px;
+        color: white;
+        text-align: center;
+        font-size: 20px;
+}
+.rt{
+    margin-left: 500px;
+    text-decoration-line: none;
+}
+.rt:hover{
+
+    background-color: white;
+}
+.rtt:hover{
+
+    background-color: white;
+}
+
+.rttt:hover{
+
+    background-color: white;
+}
+.rtt{
+    text-decoration-line: none;
+    margin-left: 50px;
+}
+.rttt{
+    text-decoration-line: none;
+    margin-left: 50px;
+}
+.e{
+    margin-left: 780px;
+    font-size: 17px;
+    color: black;
+    text-decoration-line: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.m{
+    font-size: 17px;
+    color: black;
+    margin-left: 5px;
+    text-decoration-line: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.e:hover{
+    color: red;
+}
+.m:hover{
+   color: red;
+}

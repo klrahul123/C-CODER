@@ -1,0 +1,268 @@
+.aa{
+    border: 0px red solid;
+    background-color: #b4b9bf ;
+    height: 568px;
+}
+@keyframes animation1 {
+    0% {background-color:red} 
+    100%  {background-color:yellow}
+}
+.myanim1 {
+    animation: animation1 3s linear infinite;
+}
+
+
+
+.ab{
+    border: 4px solid white;
+    border-radius: 2px;
+    justify-content: center;   
+}
+.abv{
+    border: 0px solid white;
+    border-radius: 2px;
+    justify-content: center;   
+}
+
+.abb{
+    border: 12px solid white;
+    border-radius: 35px;
+    
+    height: 720px;
+    justify-content: center;
+    background-color: #0fd6d3;
+}
+
+.ac{
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+.acr{
+    font-family: 'Noto Sans', sans-serif;
+    border: 1px solid white;
+    
+    
+}
+.dq{
+    margin-left: 120px;
+    color: gold;
+}
+
+
+.acc{
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+.ad{
+    border: 0px solid red;
+    height: 420px;
+    display: flex;
+    justify-content: center;
+    background-image: url("C:\Users\hp\Desktop\React Project\my-app\client\src\components\photos\blue.jpg");
+    background-size: cover;
+}
+
+.ae{
+    border: 0px solid gray;
+    background-color: white;
+    height: 420px;
+    display: flex;
+    justify-content: center;
+}
+.aae{
+    border: 1px solid gold ;
+    background-color: white;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+}
+.m{
+    background-color: #d6a0d9;
+}
+.aaer{
+    border: 1px solid white;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    background-image: url('C:\Users\hp\Desktop\React Project\my-app\client\src\components\photos\tensionpic.jpg');
+    background-size: cover;
+}
+.aaea{
+    border: 0px solid black;
+    height: 150px;
+    display: flex;
+    background-color: orangered;
+    color: white;
+    font-size: 50px;
+    justify-content: center;
+    
+}
+.kalu{
+    margin-top: 55px;
+}
+
+.kaluu{
+    margin-top: 55px;
+}
+
+.aez{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.aezz{
+    border: 0px solid black;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+.aea{
+
+        border: 1px solid white;
+        height: 450px;
+        display: flex;
+        justify-content: center;
+        background-color: white;
+    
+}
+.aeae{
+    
+
+        border: 0px solid white;
+        height: 450px;
+        display: flex;
+        justify-content: center;
+        background-size: cover;
+        background-image: url("C:\Users\hp\Desktop\React Project\my-app\client\src\components\photos\greenscreencode.jpg");
+    
+
+}
+
+
+.aee{
+    border: 0px solid black;
+    height: 520px;
+    
+    justify-content: center;
+
+}
+
+.af{
+    color: blueviolet;
+    font-family: 'Supermercado One', cursive;
+    text-align: center;
+}
+.ag{
+    text-align: center;
+    margin-left: 100px;
+}
+
+.ah{
+    text-align: center;
+    margin-left: 10px;
+}
+
+
+.da{
+    text-align: center;
+}
+.ett{
+    text-decoration: none;
+    color: red;
+}
+
+.agg{
+    text-align: center;
+    margin-left: 60px;
+}
+
+.ba{
+    border: 0px solid red;
+    background-color: #d6a0d9;
+}
+.z{
+    color: white;
+}
+
+.rtp{
+    border: 0px solid red;
+    justify-content: center;
+}
+
+.rubi{
+    font-family: 'Noto Sans', sans-serif;
+}
+.modii{
+    border: 0px solid blue;
+    display: flex;
+    justify-content: center;
+}
+
+.rrr{
+    color: blueviolet;
+}
+.hum{
+    font-family: 'Noto Sans', sans-serif;
+    color: black;
+}
+.r{
+    background-color: white;
+    margin: 50px 10px 10px 10px;
+    border: 0px solid black;
+    height: 370px;
+    width: 430px;
+    justify-content: center;
+}
+.her{
+    text-decoration: none;
+}
+
+.modiz{
+    border: 0px solid black;
+    display: flex;
+    justify-content: center;
+    background-image: url("C:\Users\hp\Desktop\React Project\my-app\client\src\components\photos\headpic.png");
+    background-size: cover;
+}
+
+.ca{
+    border: 0px solid black;
+    background-color: black;
+}
+.email{
+    width: 300px;
+}
+.second {
+    background:url('../components/photos/jelly.jpg') ;
+    background-size: cover;
+    
+}
+.rahul{
+    background-image: url("C:\Users\hp\Desktop\React Project\my-app\client\src\components\photos\sea.jpg");
+    background-size: cover;
+}
+
+.typewriter .topHead {
+
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid blue; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */      
+    animation: 
+      typing 2.5s steps(30, end),
+      blink-caret .5s step-end infinite;
+  }
+  
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange }
+  }

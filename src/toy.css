@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+.way{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    color: rgb(255, 1, 255);
+    font-weight:bolder;
+}
+.ho{
+    color: red;
+    margin: 0;
+}
+.yo{
+    font-family: 'Supermercado One', cursive;
+    color: rgb(68, 29, 36);  
+}
+.e{
+    width: 300px;
+}
+.yono{
+    font-family: 'Supermercado One', cursive;
+    text-align: center;   
+}
+.hum{
+    font-family: 'Noto Sans', sans-serif;
+    color: black;
+}
+.hoy{
+    margin-left:50px;
+    margin-top: 20px;
+}
+.yob{
+    font-family: 'Supermercado One', cursive;
+}
+
+.me{
+    margin-left: 20px;
+    color: rgb(61, 156, 61);
+}
+.hwai{
+    background-color: black;
+    height: 125px;
+    width: 100%;
+}
+.yon{
+    font-family: 'Supermercado One', cursive;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.wele{
+    margin-left: 20px;
+    text-decoration: none;
+    font-family: 'Supermercado One', cursive;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.spe{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    border-bottom: 1px solid white;
+}
+
+.num{
+    background-image: linear-gradient(-225deg, #20E2D7 0%, #F9FEA5 100%);
+    color: black;
+    font-family: 'Merriweather', serif;   
+}
+
+.bray{
+    margin-left: 20px;
+}
+.nya{
+    color: blueviolet;
+}
+.nyapan{
+    color: red;
+}
+.man{
+    color: rgb(16, 16, 128);
+}
+
+.t{
+    display: flex;
+    border: 0px solid grey;
+    height: 380px;
+    flex-wrap: wrap;
+    justify-content: center ;
+}
+
+.r{
+    background-color: white;
+    margin: 50px 10px 10px 10px;
+    border: 0px solid black;
+    height: 370px;
+    width: 430px;
+    justify-content: center;
+}
+.r1{
+    background-color: white;
+    margin: 50px 10px 10px 10px;
+    border: 0px solid black;
+    height: 370px;
+    width: 430px;
+    justify-content: center;
+}
+.rrr{
+    color: blueviolet;
+}
+.her{
+    text-decoration: none;
+}
+.weq{
+    margin-left: 500px;
+    text-decoration: none;
+    font-family: 'Supermercado One', cursive;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+
+.da{
+    text-align: center;
+}
+
+.n{
+    display: flex;
+    border: 0px solid grey;
+    height: 40px;
+    flex-wrap: wrap;
+    justify-content: center ;
+    font-family: 'Supermercado One', cursive;
+    font-weight: 200;
+}
+.j{
+    display: flex;
+    border: 0px solid grey;
+    height: 450px;
+    flex-wrap: wrap;
+    justify-content: center ;
+}
+.k{
+    border: 0px solid red;
+    margin-top: 20px;
+    height: 390px;
+    width: 350px;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+.po{
+    text-decoration: none;
+    color: white;
+}
+.u{
+    color: blueviolet;
+}
+.rtp{
+    border: 0px solid red;
+    justify-content: center;
+}
+    
+.modi{
+    border: 0px solid black;
+    display: flex;
+    justify-content: center;
+}
+.modiz{
+    border: 0px solid black;
+    display: flex;
+    justify-content: center;
+    background-image: url("headpic.png");
+    background-size: cover;
+}
+.modii{
+    border: 0px solid blue;
+    display: flex;
+    justify-content: center;
+}
+.rubi{
+    font-family: 'Noto Sans', sans-serif;
+}
+.rp{
+    border: 0px solid red;
+    justify-content: center; 
+}
+
+.ba{
+    display: flex;
+    border: 0px solid grey;
+    height: 40px;
+    flex-wrap: wrap;
+    justify-content: center ;
+    font-family: 'Noto Sans', sans-serif;
+    color: blueviolet;
+}
+.baf{
+    display: flex;
+    border: 1px solid grey;
+    height: 40px;
+    flex-wrap: wrap;
+    justify-content: center ;
+    font-family: 'Merriweather', serif;
+    color: black;
+    background-color: white;
+}
+.rpp{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.rppp{
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: none;
+    
+}
+.bai{
+    display: flex;
+    height: 40px;
+    flex-wrap: wrap;
+    justify-content: center ;
+    font-family: 'Noto Sans', sans-serif;
+    color: black;
+}
+.eq{
+    text-decoration: none;
+    color: white;
+}
+.rtpv{
+    border: 0px solid red;
+    justify-content: center;
+}
+.rtpvq{
+    border: 0px solid red;
+    justify-content: center;
+}
+
+.z{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+.rubil{
+    font-family: 'Noto Sans', sans-serif;
+}
+.modiina{
+    border: 0px solid blue;
+    display: flex;
+    justify-content:center;
+}
+.modiinae{
+    border: 0px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blueviolet;
+}
+
+.modiin{
+    border: 0px solid blue;
+    display: flex;
+    justify-content: center;
+    background-image: url("");
+    background-size: cover;
+}
+.modiinq{
+    border: 0px solid blue;
+    display: flex;
+    justify-content: center;
+    background-image: url("Signuptodaywalapic.jpg");
+    background-size: cover;
+}
+.modin{
+    border: 0px solid white;
+    display: flex;
+    justify-content: center;
+}
+.modinq{
+    border: 0px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.fv{
+    color: red;
+}
+.ron{
+    color: blueviolet;
+    font-family: 'Supermercado One', cursive;
+    text-align: center;
+}
+.bad{
+    border: 2px solid red;
+}
+.mami{
+    color: #009900;
+    font-family: 'Merriweather', serif;   
+    text-align: center;  
+}
+
+.mamir{
+    color: white;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+.za{
+    background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+}
+.bb{
+    height: 450px;
+    border: 3px solid blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
