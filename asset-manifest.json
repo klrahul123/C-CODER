@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/C-CODER/static/css/main.7e503c91.css",
-    "main.js": "/C-CODER/static/js/main.4fa912f9.js",
+    "main.js": "/C-CODER/static/js/main.b13e4c0b.js",
     "static/js/787.c4e7f8f9.chunk.js": "/C-CODER/static/js/787.c4e7f8f9.chunk.js",
     "static/media/sea.jpg": "/C-CODER/static/media/sea.5af59539df36af754c96.jpg",
     "static/media/tensionpic.jpg": "/C-CODER/static/media/tensionpic.18e51b079095d7dd4f13.jpg",
@@ -11,11 +11,11 @@
     "static/media/greenscreencode.jpg": "/C-CODER/static/media/greenscreencode.04bc5fd1f1f9f9074682.jpg",
     "index.html": "/C-CODER/index.html",
     "main.7e503c91.css.map": "/C-CODER/static/css/main.7e503c91.css.map",
-    "main.4fa912f9.js.map": "/C-CODER/static/js/main.4fa912f9.js.map",
+    "main.b13e4c0b.js.map": "/C-CODER/static/js/main.b13e4c0b.js.map",
     "787.c4e7f8f9.chunk.js.map": "/C-CODER/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e503c91.css",
-    "static/js/main.4fa912f9.js"
+    "static/js/main.b13e4c0b.js"
   ]
 }
