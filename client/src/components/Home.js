@@ -32,7 +32,7 @@ export default function Home() {
           
           
           
-        <Button > <ChevronRightIcon/> Free C++ Course </Button> </a>
+        <Button > <ChevronRightIcon/> Go to Course </Button> </a>
         <a href="/help" className='her'> <Button variant="dark"><ChevronRightIcon/> More Info</Button> </a>
         </div>
     </Col>
@@ -42,7 +42,7 @@ export default function Home() {
     
   </Row>
 </Container> 
-<br/> <hr/> <br/> <br/>
+<br/> <br/> <br/>
 <Footer/>
 
       

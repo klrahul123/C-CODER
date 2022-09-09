@@ -39,28 +39,11 @@ export default function Help() {
         <Col sm={6} className="aae">
           
         <Form>
+          <br/>
+          <br/>
       <Form.Group className="mb-3" controlId="formBasicText">
-                <Form.Label className="kaluu">Describe The Probem you're having:</Form.Label>
-                <Form.Control type="text" required />
+                <Form.Label className="kaluu">Email us at: rahul.gupt1235@gmail.com</Form.Label>
       </Form.Group>
-
-      <div className="d-grid gap-2">
-      <Button variant="primary" size="lg" onClick={()=> { alert("Sent")}}>
-        Send
-      </Button>
-      </div>
-      <br/>
-      <h6 className='dq'>OR</h6>
-
-      <div className="d-grid gap-2">
-      
-      <Button variant="dark" size="lg" >
-      <a href="" className='her'> E-Mail Us </a>
-      </Button>
-      
-      </div>
-      
-    
     </Form>
     </Col>
 
@@ -70,7 +53,7 @@ export default function Help() {
     </Row>
 
     </Container>    
-        <br/> <hr/> <br/>
+        <br/>  <br/>
       <Footer/>
       </div>
     );

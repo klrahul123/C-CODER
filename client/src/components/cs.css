@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Lato:ital,wght@1,900&display=swap');
+
+
 .aa{
     border: 0px red solid;
     background-color: #b4b9bf ;
@@ -14,19 +20,19 @@
 
 
 .ab{
-    border: 4px solid white;
+    border: 2px solid white;
     border-radius: 2px;
     justify-content: center;   
 }
 .abv{
     border: 0px solid white;
-    border-radius: 2px;
+    
     justify-content: center;   
 }
 
 .abb{
-    border: 12px solid white;
-    border-radius: 35px;
+    border: 4px solid white;
+    border-radius: 0px;
     
     height: 720px;
     justify-content: center;
@@ -37,12 +43,13 @@
     font-family: 'Noto Sans', sans-serif;
     
 }
+
 .acr{
     font-family: 'Noto Sans', sans-serif;
     border: 1px solid white;
-    
-    
+       
 }
+
 .dq{
     margin-left: 120px;
     color: gold;
@@ -50,7 +57,7 @@
 
 
 .acc{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     
 }
 
@@ -71,15 +78,17 @@
     justify-content: center;
 }
 .aae{
-    border: 1px solid gold ;
-    background-color: white;
+    border: 1px solid white ;
+    background-color: black;
     height: 320px;
+    font-family: 'Raleway', sans-serif;
     display: flex;
     justify-content: center;
 }
 .m{
-    background-color: #d6a0d9;
+    background-color: greenyellow;
 }
+
 .aaer{
     border: 1px solid white;
     height: 320px;
@@ -88,6 +97,8 @@
     background-image: url('C:\Users\hp\Desktop\React Project\my-app\client\src\components\photos\tensionpic.jpg');
     background-size: cover;
 }
+
+
 .aaea{
     border: 0px solid black;
     height: 150px;
@@ -100,10 +111,14 @@
 }
 .kalu{
     margin-top: 55px;
+    font-family: 'Lato', sans-serif;
 }
 
 .kaluu{
-    margin-top: 55px;
+    margin-top: 85px;
+    background-color: white;
+    color: blue;
+    font-size: 30px;
 }
 
 .aez{
@@ -144,7 +159,6 @@
 .aee{
     border: 0px solid black;
     height: 520px;
-    
     justify-content: center;
 
 }
@@ -179,8 +193,9 @@
 }
 
 .ba{
-    border: 0px solid red;
-    background-color: #d6a0d9;
+    
+    background-color: goldenrod;
+    
 }
 .z{
     color: white;
@@ -204,7 +219,7 @@
     color: blueviolet;
 }
 .hum{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: black;
 }
 .r{

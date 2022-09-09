@@ -108,7 +108,6 @@ export default function Content() {
           <br/> 
           <Container className='abb'>
          <Row className='acc'>  
-        
 
         <Col sm={12} className="aee">
         <Accordion  class="num" expanded={expanded === 'panel11'} onChange={handleChange('panel11')}>
@@ -117,7 +116,9 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          C++ is a popular programming language.<br/>
+
+          C++ is used to create computer programs, and is one of the most used language in game development.
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -127,7 +128,15 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          Variables are containers for storing data values. <br/>
+
+In C++, there are different types of variables (defined with different keywords), for example:<br/> <br/>
+
+int - stores integers (whole numbers), without decimals, such as 123 or -123 <br/> 
+double - stores floating point numbers, with decimals, such as 19.99 or -19.99<br/> 
+char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes<br/>
+string - stores text, such as "Hello World". String values are surrounded by double quotes<br/>
+bool - stores values with two states: true or false<br/>
           </Typography>
         </AccordionDetails>  
       </Accordion>
@@ -137,7 +146,12 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          int myNum = 5;               // Integer (whole number) <br/>
+float myFloatNum = 5.99;     // Floating point number<br/>
+double myDoubleNum = 9.98;   // Floating point number<br/>
+char myLetter = 'D';         // Character<br/>
+bool myBoolean = true;       // Boolean<br/>
+string myText = "Hello";     // String<br/>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -147,7 +161,16 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+            OUTPUT : <br/> <br/>
+          The cout object is used to output values/print text: <br/>
+          Example: <br/>
+
+
+          INPUT: <br/>
+          cin is a predefined variable that reads data from the keyboard with the extraction operator <br/>
+
+    
+ 
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -157,7 +180,7 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          Comments can be used to explain C++ code, and to make it more readable. It can also be used to prevent execution when testing alternative code. Comments can be singled-lined or multi-lined. 
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -167,7 +190,15 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          Operators are used to perform operations on variables and values. <br/>
+          C++ divides the operators into the following groups: <br/><br/>
+
+Arithmetic operators<br/>
+Assignment operators<br/>
+Comparison operators<br/>
+Logical operators<br/>
+Bitwise operators<br/>
+
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -177,7 +208,12 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          C++ has the following conditional statements: ,<br/> <br/>
+
+Use if to specify a block of code to be executed, if a specified condition is true<br/>
+Use else to specify a block of code to be executed, if the same condition is false<br/>
+Use else if to specify a new condition to test, if the first condition is false<br/>
+Use switch to specify many alternative blocks of code to be executed<br/>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -187,7 +223,9 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          Loops can execute a block of code as long as a specified condition is reached. <br/>
+
+Loops are handy because they save time, reduce errors, and they make code more readable. <br/>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -197,7 +235,11 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          Loops can execute a block of code as long as a specified condition is reached. <br/>
+
+          Loops are handy because they save time, reduce errors, and they make code more readable. <br/>
+
+
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -207,7 +249,12 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          This is how it works: <br/> <br/>
+
+The switch expression is evaluated once <br/>
+The value of the expression is compared with the values of each case <br/>
+If there is a match, the associated block of code is executed <br/>
+The break and default keywords are optional, and will be described later in this chapter <br/>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -217,7 +264,11 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          A function is a block of code which only runs when it is called. <br/>
+
+You can pass data, known as parameters, into a function. <br/>
+
+Functions are used to perform certain actions, and they are important for reusing code: Define the code once, and use it many times. <br/>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -227,7 +278,9 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          Strings are used for storing text. <br/>
+
+A string variable contains a collection of characters surrounded by double quotes:<br/>
           </Typography>
         </AccordionDetails> 
       </Accordion>
@@ -237,7 +290,9 @@ export default function Content() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-          COMING SOON...
+          Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value. <br/>
+
+To declare an array, define the variable type, specify the name of the array followed by square brackets and specify the number of elements it should store: <br/>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -259,7 +314,7 @@ export default function Content() {
         </Row>
         </Container>
          
-        <br/> <hr/> <br/>
+        <br/>  <br/>
         <Footer/>
           
            
