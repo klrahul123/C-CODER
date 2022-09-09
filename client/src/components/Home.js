@@ -27,13 +27,13 @@ export default function Home() {
           </div>
           
         <p className="hum" > Confused on which C++ course to take? I have got you covered. Browse courses and find out the best C++ course for you. Its free!  C++ CODER is my attempt to teach basics and those coding techniques to people in short time which took me ages to learn.</p>
-        <a href="/content" class="her" onClick={()=>alert("Opening Free Course")}>
+        <a href="/C-CODER/content" class="her" onClick={()=>alert("Opening Free Course")}>
           
           
           
           
         <Button > <ChevronRightIcon/> Go to Course </Button> </a>
-        <a href="/help" className='her'> <Button variant="dark"><ChevronRightIcon/> More Info</Button> </a>
+        <a href="/C-CODER/help" className='her'> <Button variant="dark"><ChevronRightIcon/> More Info</Button> </a>
         </div>
     </Col>
     <Col sm={6} className="modiz">
