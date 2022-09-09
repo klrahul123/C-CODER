@@ -35,7 +35,7 @@ export default function Navbare() {
         style={{ maxHeight: '120px'  }}
         navbarScroll
       >
-        <Nav.Link as={Link} to={"/"}  >Home</Nav.Link>
+        <Nav.Link as={Link} to={"/C-CODER"}  >Home</Nav.Link>
         <Nav.Link as={Link} to={"/content"}>Content</Nav.Link>
         <Nav.Link as={Link} to={"/help"}>Help</Nav.Link>
         <Nav.Link as={Link} to={"/contact"}>Register</Nav.Link>
@@ -63,7 +63,7 @@ export default function Navbare() {
       <div>
 
       <Switch>
-      <Route exact path="/">
+      <Route exact path="/C-CODER">
         <Home/>
       </Route>
 
