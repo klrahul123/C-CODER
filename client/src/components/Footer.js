@@ -20,8 +20,8 @@ export default function Footer() {
       <Container className='ab'>
         <br/>
       <Row className='ac'>
-        <Col sm={4} className="aez" > <a href="/" className='her'> <Button variant="light"> <HomeIcon/> Back To Home</Button> </a></Col>
-        <Col sm={4} className="aez"> <a href="/help" className='her'> <Button variant="light"> <ContactMailIcon/> Contact Us</Button> </a></Col>
+        <Col sm={4} className="aez" > <a href="/C-CODER" className='her'> <Button variant="light"> <HomeIcon/> Back To Home</Button> </a></Col>
+        <Col sm={4} className="aez"> <a href="/C-CODER/help" className='her'> <Button variant="light"> <ContactMailIcon/> Contact Us</Button> </a></Col>
         <Col sm={4} className="aez"> <a href="/logout" className='her'> <Button variant="light"> <LogoutIcon/> Log out</Button> </a></Col>
       </Row>
        <br/>

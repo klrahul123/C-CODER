@@ -37,11 +37,8 @@ export default function Login() {
       //localStorage.setItem('jwtoken',data.jwtoken)
       const cookie = new Cookies();
       cookie.set('jwtoken', data.jwtoken)
-      history.push("/");
+      history.push("/C-CODER");
     }
-
-
-
 
   }
 

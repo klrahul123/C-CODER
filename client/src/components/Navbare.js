@@ -36,8 +36,8 @@ export default function Navbare() {
         navbarScroll
       >
         <Nav.Link as={Link} to={"/C-CODER"}  >Home</Nav.Link>
-        <Nav.Link as={Link} to={"/content"}>Content</Nav.Link>
-        <Nav.Link as={Link} to={"/help"}>Help</Nav.Link>
+        <Nav.Link as={Link} to={"/C-CODER/content"}>Content</Nav.Link>
+        <Nav.Link as={Link} to={"/C-CODER/help"}>Help</Nav.Link>
         <Nav.Link as={Link} to={"/contact"}>Register</Nav.Link>
        
         
@@ -69,12 +69,12 @@ export default function Navbare() {
 
        
 
-          <Route exact path="/content">
+          <Route exact path="/C-CODER/content">
             <Content />
           </Route> 
           
 
-          <Route exact path="/help">
+          <Route exact path="/C-CODER/help">
             <Help/>
           </Route>
 
